@@ -6,6 +6,8 @@ The design is inspired by FPGA-style architectures, focusing on modular pipeline
 
 The pipeline performs multiple image processing operations starting from color space conversion to edge detection and final image reconstruction.
 
+NOTE: STD LIBRARY FILES ARE NOT INCLUDED IN THE REPO AND HENCE, REQUIRED TO BE DOWNLOADED FOR TESTING AND RUN. 
+
 ---
 
 ## Design Philosophy
